@@ -1008,7 +1008,7 @@ body.dark-theme {
   }
 
   .home {
-    padding: 9.5rem 0 5rem;
+    padding: 10rem 0 5rem;
   }
 
   .home__img {
@@ -1092,9 +1092,9 @@ body.dark-theme {
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1280px) {
   .home {
-    padding: 15rem 0 8rem;
+    padding: 18rem 0 8rem;
   }
 
   .home__social {
